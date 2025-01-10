@@ -2,7 +2,6 @@
 
 ####################################################
 # Auther Subendhiran
-# Date 03-12-2024
 # Version v1
 #
 # This script will report the AWS resource usage
